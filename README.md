@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://laulj.github.io/"><img src="./assets/banner.png" width="100%" alt="Lau Lok Jing — full-stack engineer and smart contract auditor. Every metric carries its source and its date."></a>
+</p>
+
 # ⚡ Lau Lok Jing · Full-Stack Developer & Smart Contract Auditor
 
 <p align="center">
