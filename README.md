@@ -36,6 +36,7 @@
 
 | Project | Description | Stack | Links |
 |---------|-------------|-------|-------|
+| **Efeng Spine Healing Center** | A real client's clinic site in Shah Alam: built in 2023, carried through three releases, then rebuilt in 2026 to retire Create React App, Ant Design, Bootstrap and React Spring | React Router 7, Vite, Tailwind CSS 4, Netlify | [Live site](https://efengspine.com) · *client-owned; source private* |
 | **TradeOps Nexus** | Self-hosted arbitrage PnL platform: spot, perpetual-futures and funding-rate positions from CEX and DEX venues consolidated into one ledger, behind a custom aggregate cache that ingestion writes invalidate | React 19, Vite, Express, SQLite | [Repo](https://github.com/laulj/tradeops-nexus) · [Live demo](https://tradeops-nexus.onrender.com) |
 | **dUSD Stablecoin** | Over-collateralised stablecoin with a liquidation engine; the test suite includes invariant tests that try to break the solvency accounting | Solidity, Foundry, Chainlink | [Repo](https://github.com/laulj/dUSD-stablecoin) |
 | **Audit Reports** | A public record of my audit work: the Uniswap V3 review, an on-chain exploit analysis, and the Cyfrin Updraft course reports | Solidity, Foundry, Slither | [Reports](https://github.com/laulj/audit-reports) |
